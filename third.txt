@@ -1,0 +1,2 @@
+here we will see the another command
+git commit -a -m " " -- it will commit all the modified files

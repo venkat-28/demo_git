@@ -1,0 +1,10 @@
+git init -- start the .git in the file
+git status -- to know about the status of files.
+git add --a or git add . or git add folder name -- to track the files
+git commit -m "*** "  -- to make the commit of the file
+git commit -a -m " *** " -- it will commit all the modified files
+store any file name in .gitignore so they will not be tracked
+git diff and git diff --staged -- to see the difference btw the staged file and running directory file
+git rm -- for deleting specific file
+git mv -- used to rename the file
+git rm --cached -- for untracking specfic file
